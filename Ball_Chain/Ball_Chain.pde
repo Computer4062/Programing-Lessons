@@ -1,4 +1,4 @@
-int[] speedX = new int[20000];
+int[] speedX = new int[30000];
 int[] speedY = new int[10000];
 int[] circleX = new int[10000];
 int[] circleY = new int[10000];
